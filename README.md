@@ -1,0 +1,2 @@
+# Join-oneswap
+only bind
